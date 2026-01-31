@@ -1,0 +1,12 @@
+menu.bat
+|_
+  |____
+      |
+        hello.bat
+date.bat   _|
+|
+|
+folder.bat
+        |
+  exit _|
+
